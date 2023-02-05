@@ -1,1 +1,2 @@
-My first readme
+MY FIRST README
+The initial step taken
